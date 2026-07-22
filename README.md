@@ -29,6 +29,8 @@ Das Projekt verbindet historische Marktdaten, Machine-Learning-Modelle, zeitbasi
 
 Der vollständige Quellcode, die internen Modelle und die Strategielogik bleiben privat. Öffentlich gezeigt werden ausgewählte Videos, Oberflächen und Projektinformationen.
 
+[GitHub-Showcase](https://github.com/yonesit/quantzai-showcase) · [Projektseite](https://yonesit.github.io/quantzai.html) · [Video-Demo](https://youtu.be/-rbE4jQJ4iU)
+
 > QuantzAI ist ein privates Forschungsprojekt und keine Finanzberatung.
 
 ### Protocolbridge
