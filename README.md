@@ -1,4 +1,4 @@
-# Hallo, ich bin Yones Alizai 👋
+Yones Alizai
 
 ## Informatiker & Softwareentwickler
 
